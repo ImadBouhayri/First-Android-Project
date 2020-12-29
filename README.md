@@ -1,4 +1,4 @@
 # First-Android-Project
 
 
-This is an application similar to Trello, to organise our tasks.
+This is an Android Application similar to Trello, to organise our tasks.
